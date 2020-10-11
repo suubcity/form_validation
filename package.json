@@ -1,0 +1,25 @@
+{
+  "name": "form_validation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suubcity/form_validation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suubcity/form_validation/issues"
+  },
+  "homepage": "https://github.com/suubcity/form_validation#readme",
+  "devDependencies": {
+    "css-loader": "^4.3.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
